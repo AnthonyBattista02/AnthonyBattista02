@@ -3,7 +3,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-green?style=flat-square&logo=github)](https://github.com/AnthonyBattista02)
 
 ## Summary
-insert summary
+I am a communicative and versatile software engineer. In my education from Texas A&M University and the General Assembly SEI Program, I learned not only the skills required in my field, but also learned how to effectively communicate in a team effort, and ask questions when needed. I am eager to learn new skills and want to broaden my knowledge and experience as much as I can with every opportunity I can get.
 
 ## Technical Skills
 ![HTML](https://img.shields.io/badge/HTML-blue?style=flat-square&logo=html5&logoColor=white&labelColor=blue)
