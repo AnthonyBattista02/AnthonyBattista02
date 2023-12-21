@@ -28,7 +28,7 @@ I am a communicative and versatile software engineer. In my education from Texas
 ## Recent Projects
 | Triwizard Tournament       | Take A Hike       | MERN Project       | Music Quiz       |
 |-----------------------|-----------------------|-----------------------|-----------------------|
-| <a href="https://github.com/AnthonyBattista02/Take-A-Hike">Github</a><span>&nbsp;| <a href="https://github.com/JoshHutchison/GamingDeals">Github</a><span>&nbsp;&nbsp;</span><a href="https://github.com/JoshHutchison/GamingDeals">Live</a>| <a href="https://github.com/JoshHutchison/Pizza-HAUS">Github</a><span>&nbsp;&nbsp;</span><a href="https://github.com/JoshHutchison/Pizza-HAUS">Live</a>| <a href="https://github.com/JoshHutchison/MonsterAdoption">Github</a><span>&nbsp;&nbsp;</span><a href="https://github.com/JoshHutchison/MonsterAdoption">Live</a>|
+| <a href="https://github.com/AnthonyBattista02/Take-A-Hike">Github</a>| <a href="https://github.com/JoshHutchison/GamingDeals">Github</a>| <a href="https://github.com/JoshHutchison/Pizza-HAUS">Github</a><span>&nbsp;&nbsp;</span><a href="https://github.com/JoshHutchison/Pizza-HAUS">Live</a>| <a href="https://github.com/JoshHutchison/MonsterAdoption">Github</a><span>&nbsp;&nbsp;</span><a href="https://github.com/JoshHutchison/MonsterAdoption">Live</a>|
 | <img src="" width=300 height=100> | <img src="" width=300> | <img src="" width=300> | <img src="" width=300> |
 |  | <img src="" width=300> | <img src="" width=300> | <img src="" width=300> |
 |  | <img src="" width=300> | <img src="" width=300> | <img src="" width=300> |
