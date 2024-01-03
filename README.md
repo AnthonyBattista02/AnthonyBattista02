@@ -11,7 +11,6 @@ I am a communicative and versatile software engineer. In my education from Texas
 ![CSS](https://img.shields.io/badge/CSS-blue?style=flat-square&logo=css3&logoColor=white&labelColor=blue)
 ![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=white&labelColor=blue)
 ![Java](https://img.shields.io/badge/Java-blue?style=flat-square&logo=java&logoColor=white&labelColor=blue)
-![C#](https://img.shields.io/badge/C%23-blue?style=flat-square&logo=csharp&logoColor=white&labelColor=blue)
 ![MongoDB](https://img.shields.io/badge/MongoDB-blue?style=flat-square&logo=mongodb&logoColor=white&labelColor=blue)
 ![Express](https://img.shields.io/badge/Express-blue?style=flat-square&logo=express&logoColor=white&labelColor=blue)
 ![React](https://img.shields.io/badge/React-blue?style=flat-square&logo=react&logoColor=white&labelColor=blue)
